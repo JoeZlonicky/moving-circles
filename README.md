@@ -1,5 +1,5 @@
 # Moving Circles
-A cool effect from the use of sin. Use w/s to increase or decrease the number of circles.
+An interesting visual effect from the use of trigonometric functions. Use w/s to increase or decrease the number of circles.
 
 ## N = 1
 ![Image of a single moving circle](screenshots/1.png)
